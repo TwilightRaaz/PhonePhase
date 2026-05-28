@@ -23,7 +23,7 @@ This script is made to be free for every. Use however you like.
 ## 🚀 Usage
 
 ```bash
-python3 phonePhase.py +14155552671
+python3 phonePhase.py [PHONE NUMBER with country code]
 ```
 
 **Note:** Always include the country code. Use for authorized research and security purposes only.
