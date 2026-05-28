@@ -1,8 +1,8 @@
 # PhonePhase - Deep OSINT (--Raaz)
 
 An advanced Python script for deep information extraction and OSINT (Open Source Intelligence) reconnaissance.
-This script is made to be free for every. Use however you like.
 
+This script is made to be free for ever. Use however you like.
 
 ## 🌟 Advanced Features
 - **Basic Info:** Validation, formatting (International, National, E164), and number type identification.
